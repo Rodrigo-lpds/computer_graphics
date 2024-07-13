@@ -43,6 +43,11 @@ python main.py
 
 The rendered image will be saved as `ray_traced_image.png` in the project directory.
 
+E.g
+![ray_traced_image](https://github.com/user-attachments/assets/79644200-79ab-48c4-8718-512827c796b8)
+
+
+
 ## Scene Configuration
 
 Modify `scene_manager.py` to adjust the spheres, their positions, colors, and reflection coefficients. You can also change the light source's position and intensity to experiment with different scenes.
